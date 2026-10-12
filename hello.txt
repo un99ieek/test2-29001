@@ -4,3 +4,5 @@ repo : test2-29001
 description : 항공IT그룹 & 권웅기
 
 add comment in web & commit
+
+add comment in clone repository
